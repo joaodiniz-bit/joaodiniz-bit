@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started coding last year, and now I'm currently in university studying Computer Science (1st year) <br>📚 I'm currently learning C# and have a basic undestanding off HTML, CSS and JavaScript<br>🎯 Goals: Learn coding of various typings and understand more about technology and the base that builds it.<br>🎲 Fun fact: I love dogs.</p>
+<p align="left">✨ Started coding last year, and now I'm currently in university studying Computer Science (1st year) <br>📚 I'm currently learning C# an python and have a basic undestanding off HTML, CSS and JavaScript<br>🎯 Goals: Learn coding of various typings and understand more about technology and the base that builds it.<br>🎲 Fun fact: I love dogs.</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C Sharp logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
 ###
@@ -32,9 +34,7 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
