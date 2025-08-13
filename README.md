@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started coding last year, and now I'm currently in university studying Computer Science (1st year) <br>📚<br>I'm currently learning C# and have a basic undestanding off HTML, CSS and JavaScript<br>🎯 Goals: Learn coding of various typings and understand more about technology and the base that builds it.<br>🎲 Fun fact: I love dogs.</p>
+<p align="left">✨ Started coding last year, and now I'm currently in university studying Computer Science (1st year) <br>📚 I'm currently learning C# and have a basic undestanding off HTML, CSS and JavaScript<br>🎯 Goals: Learn coding of various typings and understand more about technology and the base that builds it.<br>🎲 Fun fact: I love dogs.</p>
 
 ###
 
